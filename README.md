@@ -2,18 +2,13 @@
 
 A lightweight Flask server that serves a simple web interface for controlling LED animations and settings over a local network. Built for quick prototyping and syncing LED behavior via HTTP + JavaScript.
 
-## ⚠️ Prerequisite: D1 Mini Firmware (Required)
+## 🧩 Prerequisite: D1 Mini Firmware (Required)
 
-**Before installing or running the LED Control Server, you must flash the required firmware onto your D1 Mini.**
-
-The server communicates with the D1 Mini using its companion firmware. Without it, LED control functionality will not work as intended.
+**First you must flash the required firmware onto your D1 Mini.**
 
 **➡️ [LED Tube Firmware — Installation & Setup](https://github.com/CasualCaleb/Led-Tube-Firmware)**
 
-1. Visit the firmware repository above.
-2. Follow the instructions to flash the firmware onto your D1 Mini.
-3. Ensure the D1 Mini is configured and connected to your local network.
-4. Once completed, proceed with the server installation below.
+The server communicates with the D1 Mini using its companion firmware. Without it, LED control functionality will not work as intended.
 
 ## 🚀 Getting Started
 
