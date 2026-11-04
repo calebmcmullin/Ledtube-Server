@@ -1,6 +1,6 @@
 # LED Control Server
 
-![LED Tube Demo](assets/led-demo.gif)
+![LED Tube Demo](assets/leds.gif)
 
 A lightweight Flask server that serves a simple web interface for controlling LED animations and settings over a local network. Built for quick prototyping and syncing LED behavior via HTTP + JavaScript.
 
