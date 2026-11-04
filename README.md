@@ -6,7 +6,7 @@ A lightweight Flask server that serves a simple web interface for controlling LE
 
 **First you must flash the required firmware onto your D1 Mini.**
 
-**➡️ [LED Tube Firmware — Installation & Setup](https://github.com/CasualCaleb/Led-Tube-Firmware)**
+**➡️ [LED Tube Firmware](https://github.com/CasualCaleb/Led-Tube-Firmware)**
 
 The server communicates with the D1 Mini using its companion firmware. Without it, LED control functionality will not work as intended.
 
